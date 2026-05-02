@@ -5,7 +5,7 @@ import os
 import plotly.express as px
 import google.generativeai as genai
 
-# Google Cloud Services Integration
+# Google Cloud Services Integrationm
 try:
     import google.cloud.logging
     import logging
