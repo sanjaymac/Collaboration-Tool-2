@@ -77,7 +77,7 @@ def main():
             "🌍 Visibility Hub", 
             "🔄 Workflow Engine", 
             "🤖 Google AI Copilot"
-        ], aria_label="App Navigation")
+        ], label_visibility="collapsed")
 
     if menu == "🌍 Visibility Hub":
         st.markdown("<main><h1>🌍 Full-Team Visibility Hub</h1></main>", unsafe_allow_html=True)
